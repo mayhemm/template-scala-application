@@ -1,4 +1,4 @@
-name := "scala-application"
+name := "template-scala-application"
 
 version := "1.0"
 
