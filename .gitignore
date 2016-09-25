@@ -1,4 +1,6 @@
-.idea
+/.idea
+/.ensime
+/.ensime_cache
 /target
 /project/target
 /project/project
